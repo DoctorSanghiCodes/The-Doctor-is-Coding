@@ -1,6 +1,6 @@
 # The-Doctor-is-Coding
 
-​I'm a Doctor exploring the world of 0s and 1s. Today I learned that computers are basically just very fast light switches.
+​I'm a Doctor exploring the world of 0s and 1s. Today I learnt that computers are basically just very fast light switches.
 ​
 
 ### 🚀 CS50 Journey: Lecture 0 (Scratch)
